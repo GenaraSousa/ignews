@@ -23,7 +23,7 @@ As principais tecnologias e ferramentas utilizadas no desenvolvimento foram:
 - **[Axios](https://axios-http.com/)**: Cliente HTTP para requisições API.
 
 ## 🎨 Design
-O design da aplicação foi baseado em um protótipo desenvolvido no **[Figma]([https://www.figma.com/](https://www.figma.com/file/KMH0UmdzxZBW4gKWkQEGCS/ig.news?node-id=1%3A2))**.
+O design da aplicação foi baseado em um protótipo desenvolvido no **[Figma]([[https://www.figma.com/](https://www.figma.com/file/KMH0UmdzxZBW4gKWkQEGCS/ig.news?node-id=1%3A2)]**.
 
 
 
